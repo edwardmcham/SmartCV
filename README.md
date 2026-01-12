@@ -1,17 +1,22 @@
-# SmartCV
+# SmartCV API (Sample Documentation Project)
 
-*Authentic CV Customization without AI.*
+SmartCV is a sample API documentation project that demonstrates how to document
+a resume analysis and scoring service using modern docs-as-code practices.
 
-## Overview
+This repository focuses on:
+- API overview and usage documentation
+- Endpoint descriptions and request/response examples
+- OpenAPI-based reference material
+- Developer-focused explanations and workflows
 
-**SmartCV** is a JSON-based API that builds customized CVs from structured, user-provided data — not AI-generated text.
+> Note: SmartCV is a documentation-focused sample project. This repository prioritizes documentation structure and developer usability over production readiness.
 
-This repository is part of the **SME/TW collaboration** for the Technical Writing Portfolio project.  
+## What This Project Demonstrates
 
-- **SME:** Eddie McHam
-- **TW:** Drashti Bhatt  
-- **Service:** SmartCV API  
-- **Repo Purpose:** SME-managed source files for API structure and data examples.
+- API documentation structure for a REST-style service
+- Markdown-based docs-as-code workflow
+- OpenAPI usage for API reference
+- Clear developer onboarding and examples
 
 ## What SmartCV Does
 
