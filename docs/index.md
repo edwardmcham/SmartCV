@@ -1,10 +1,47 @@
-# SmartCV API documentation
+# SmartCV API Documentation
 
-## Overview
+SmartCV provides a REST-style API for analyzing resumes and returning structured
+insights such as extracted skills, experience indicators, and scoring signals.
 
-SmartCV is a JSON-based service that creates customized CV outputs from verified user data.  
-It helps developers build CV tools that match job description keywords without using artificial intelligence.  
-All information comes directly from the user.
+This documentation is written for developers integrating resume analysis into
+internal tools, applicant tracking systems, or screening workflows.
+
+> SmartCV is a sample API documentation project. The API described here is
+illustrative and designed to demonstrate documentation structure, clarity,
+and developer-focused best practices.
+
+---
+
+## What the API Does
+
+The SmartCV API accepts resume content and returns structured data that can be
+used to support automated screening, ranking, or enrichment workflows.
+Content is authored directly by the user, not AI-generated.
+
+Typical use cases include:
+- Parsing resumes into structured data
+- Extracting skills and experience signals
+- Supporting internal hiring or evaluation tools
+
+---
+
+## High-Level Workflow
+
+1. Client sends resume content to the SmartCV API
+2. SmartCV analyzes the content
+3. API returns structured results in JSON format
+4. Client uses results for downstream processing or display
+
+---
+
+## Audience
+
+This documentation is intended for:
+- Software engineers
+- Platform and tools teams
+- Technical integrators
+
+Familiarity with REST APIs and JSON is assumed.
 
 ---
 
