@@ -9,7 +9,7 @@ This repository focuses on:
 - OpenAPI-based reference material
 - Developer-focused explanations and workflows
 
-> Note: SmartCV is a documentation-focused sample project. This repository prioritizes documentation structure and developer usability over production readiness.
+> NOTE: SmartCV is a documentation-focused sample project. This repository prioritizes documentation structure and developer usability over production readiness.
 
 ## What This Project Demonstrates
 
