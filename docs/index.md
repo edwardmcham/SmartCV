@@ -6,7 +6,7 @@ insights such as extracted skills, experience indicators, and scoring signals.
 This documentation is written for developers integrating resume analysis into
 internal tools, applicant tracking systems, or screening workflows.
 
-> SmartCV is a sample API documentation project. The API described here is
+> NOTE: SmartCV is a sample API documentation project. The API described here is
 illustrative and designed to demonstrate documentation structure, clarity,
 and developer-focused best practices.
 
